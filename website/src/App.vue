@@ -9,6 +9,7 @@
 
     <v-content>
       <Hero/>
+      <Gallery/>
     </v-content>
   </v-app>
 </template>
@@ -16,13 +17,15 @@
 <script>
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Gallery from './components/Gallery';
 
 export default {
   name: 'App',
 
   components: {
     Header,
-    Hero
+    Hero,
+    Gallery
   },
 
   data: () => ({
