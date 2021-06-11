@@ -1,5 +1,4 @@
 <template>
-  <v-container>
     <div class="heroBlock">
       <v-carousel>
         <v-carousel-item
@@ -11,7 +10,6 @@
         ></v-carousel-item>
       </v-carousel>
     </div>
-  </v-container>
 </template>
 
 <script>
