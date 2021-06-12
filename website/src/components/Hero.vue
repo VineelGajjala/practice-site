@@ -23,7 +23,7 @@
         items: [
           {
             src: 'https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg',
-            title: "whats"
+            title: "what is"
           },
           {
             src: 'https://cdn.vox-cdn.com/thumbor/pWwIaPWZmlnXHtCqrHrRb39O_-E=/0x0:2000x1233/1200x800/filters:focal(837x0:1157x320)/cdn.vox-cdn.com/uploads/chorus_image/image/65913277/lebron.0.jpg',
