@@ -1,10 +1,7 @@
 <template>
   <v-app>
-    <v-app-bar
-      app
-      flat
-    >
-    <Header/>
+    <v-app-bar flat max-height="65">
+      <Header/>
     </v-app-bar>
 
     <v-content>
