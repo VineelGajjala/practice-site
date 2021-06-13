@@ -15,13 +15,13 @@ import './scss/main.scss';
 Vue.config.productionTip = false
 
 const router = new VueRouter({
+  mode: 'history',
   routes: [
     { path: '/', component: Home },
     { path: '/about', component: About },
     { path: '/contact', component: Contact },
     { path: '*', component: NotFound }
   ],
-  mode: 'hash'
 })
 
 new Vue({
